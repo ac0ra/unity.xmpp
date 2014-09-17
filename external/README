@@ -1,0 +1,11 @@
+## External Repositories Required for build
+
+
+The build scripts will automatically pull these repositories in;
+
+For manual build
+These repositories should be fetched to these versions
+$REPOSITORY.VERSIONS$
+
+
+
